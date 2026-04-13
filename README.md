@@ -1,2 +1,2 @@
-# Edgeweave Loom
-Releases of the Edgeweave Loom presentation app are hosted here. This is used to auto-update any MacOS or Windows applications.
+# ProWeave Church Software
+Releases of the ProWeave Present app (proweave.app) are hosted here by Edgeweave.io
