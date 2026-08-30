@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: ProWeave
+Label: ProWeave Presenter
+Suite: stable
+Codename: stable
+Date: Sun, 30 Aug 2026 20:23:27 GMT
+Valid-Until: Sat, 28 Nov 2026 20:23:27 GMT
+Acquire-By-Hash: yes
+Architectures: amd64 arm64
+Components: main
+Description: ProWeave Presenter packages
+SHA256:
+ 51b0e4d3c0d487e30108771fc7b95aca03229d8d4717a3d2465dbceeb03c5a9a             1122 main/binary-amd64/Packages
+ 60c09e3045f1aa912cca2d0a085f13daee10ff51094b8b53b300c1a66005ccbe              657 main/binary-amd64/Packages.gz
+ 746f14a53f19919f6fc7af5bf50bcea086696aff949b3896f6ded4f53b337663             1122 main/binary-arm64/Packages
+ c09a378bacd712cfb2fda0d2b0122e5f31150b67294154986e44faa2a6a83ae6              662 main/binary-arm64/Packages.gz
+SHA512:
+ 222ce7e5e7f79e10761e56a4eeec079d67997103dd0f5f9dd9a4945e6e00d143ebc9ad4e40ffb12555ad253e0552e8d070d1c8eff5cc22ea99e9acba20e932bd             1122 main/binary-amd64/Packages
+ 2fce335bfc3124087f3c2665050a9e48291334fb3d4549bb509196bc91d2be6ec3276bbd2b25be7f49f0778e79f130cb71770bd70f9e78740865ada7b7c9b905              657 main/binary-amd64/Packages.gz
+ e17d1c46a3e9ad8610f39c6a8f90cab932a8b5d01a4429b46a10c97681ce8df4a7106c315a5a5ac39d2268879a62646605c79365d22c4adff6e89673555fdccf             1122 main/binary-arm64/Packages
+ 0df315910bcf728b6979eb16f19aeb12a5be97893655e681ec9deefe36c1a7a16948fa50d3b16a2649259cd3a308b218f35394979b15c1f3822bbb3fd0420691              662 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJPBAEBCAA5FiEE7PXmbbVr3Yd696KABQ/FW70G2mMFAmqUkT8bFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzAAoJEAUPxVu9BtpjpzcP/iB7KrIHPvAwthx84W4G
+DqialG3ziTAwWveshntxnihKuyuSHBl9i4sw1Z7mrl9fu7bFpIS68xgtcPyADxAj
+xDtQi77PAznuRtQ7ju/nrB4Lnu6seDzhiqZqXnRfJWsLJQaaro6BGi2844sV8/nV
+lB0c+0Cc2uLzeu1oAHuv1YhNdX/rFaittSdfF4a7j6YYbGZnPqYRQqfwn7QtLyMN
+jJAVXVC405vrmsrXqLwhfBK7Fi44bw6FJojrTGDivFDpiZfJy5wC8XE/5cUe8W5D
+vBOvFPl2EpPKzoUwNXQViCgsUgG3/C/SmoqpELvAf1PX0wMWcxuLOBoSz5jkOO4B
+nGPJCwUtTQfAXS3X1GPzKL6CTXAYl1KAOxOrZECkUV92fKNDroaHYRumIyGYJrXV
+hCqFrwdCeKRb3DPY+IX6bklOACxOcdi7PBJorFXFVxx9ANUxmPDy+QeGW4PiUPhi
+V8oBM0y+KMZ0FAyetglnHD2fAsDVF2mXjv31GKW7SME+Jqb6O8zatvbcqx026bSt
+plfm+NjjrvsOFNDZMBnXaGj1ydFbtzXPFvR0xDkinQnL9Ccb5xeoSBhshWqcH4x4
+OCAH7bH7skWq9Zc0Fmm2WPmECHEySdqC+qmk1EpeSEiyb45PB+XjfB09jBS0QlHM
++wGRfhs+yq3Qa2cXPJNWKvBM
+=oP/W
+-----END PGP SIGNATURE-----
