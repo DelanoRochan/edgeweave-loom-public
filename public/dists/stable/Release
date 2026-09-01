@@ -2,19 +2,19 @@ Origin: ProWeave
 Label: ProWeave Presenter
 Suite: stable
 Codename: stable
-Date: Sun, 30 Aug 2026 20:23:27 GMT
-Valid-Until: Sat, 28 Nov 2026 20:23:27 GMT
+Date: Tue, 01 Sep 2026 13:57:08 GMT
+Valid-Until: Mon, 30 Nov 2026 13:57:08 GMT
 Acquire-By-Hash: yes
 Architectures: amd64 arm64
 Components: main
 Description: ProWeave Presenter packages
 SHA256:
- 51b0e4d3c0d487e30108771fc7b95aca03229d8d4717a3d2465dbceeb03c5a9a             1122 main/binary-amd64/Packages
- 60c09e3045f1aa912cca2d0a085f13daee10ff51094b8b53b300c1a66005ccbe              657 main/binary-amd64/Packages.gz
- 746f14a53f19919f6fc7af5bf50bcea086696aff949b3896f6ded4f53b337663             1122 main/binary-arm64/Packages
- c09a378bacd712cfb2fda0d2b0122e5f31150b67294154986e44faa2a6a83ae6              662 main/binary-arm64/Packages.gz
+ 52422eac7e4d442f4ff1569a6cf2d7837be6d1b1ae66b277b903ccdea6bf512c             1122 main/binary-amd64/Packages
+ 7af71b59c755f2b0a1745a35524964dbac580e042ac4181957d4e2666801e5e6              661 main/binary-amd64/Packages.gz
+ 77625dc4a81186f712fd729993fdc7be4e2502c4b5cabdc812329455bc09a523             1122 main/binary-arm64/Packages
+ 99b69d32b72ea98d80c221d86d8d902358eb0f7c32777f8924ea61a9e34092b9              659 main/binary-arm64/Packages.gz
 SHA512:
- 222ce7e5e7f79e10761e56a4eeec079d67997103dd0f5f9dd9a4945e6e00d143ebc9ad4e40ffb12555ad253e0552e8d070d1c8eff5cc22ea99e9acba20e932bd             1122 main/binary-amd64/Packages
- 2fce335bfc3124087f3c2665050a9e48291334fb3d4549bb509196bc91d2be6ec3276bbd2b25be7f49f0778e79f130cb71770bd70f9e78740865ada7b7c9b905              657 main/binary-amd64/Packages.gz
- e17d1c46a3e9ad8610f39c6a8f90cab932a8b5d01a4429b46a10c97681ce8df4a7106c315a5a5ac39d2268879a62646605c79365d22c4adff6e89673555fdccf             1122 main/binary-arm64/Packages
- 0df315910bcf728b6979eb16f19aeb12a5be97893655e681ec9deefe36c1a7a16948fa50d3b16a2649259cd3a308b218f35394979b15c1f3822bbb3fd0420691              662 main/binary-arm64/Packages.gz
+ 6de0007faed0418ab5551b706cb18afa6e78c23c1e00194accd330e3ad31864a2b6e73b99a68fb8c51f60076e5987c832c3ade6c7f6ece0bde6bbe6a453144ed             1122 main/binary-amd64/Packages
+ f033f62c207feba7cf6a6f1c3841491cff75b27857f9d85cc20e114469f8f8d92c97d1590df94ad2e321558a56968cb0494dd72252c860b1592d7b1ea9cdd60b              661 main/binary-amd64/Packages.gz
+ e53b1edc5ecf0be8aca55793901ad17dddd39b2f2d557c9913d4782e255d4e2380794ac1d8eaf38786788955132948af89fcaa208e0e342f097b0a0d665812b9             1122 main/binary-arm64/Packages
+ 24bbf85a1f16d9a035a740508c43513926da4195d5339e909957f1b5ba77deed6210c20457fd8b4a72c474bb49c0f9ca53804c7ccb221fb3359a9cd9d617ae17              659 main/binary-arm64/Packages.gz
