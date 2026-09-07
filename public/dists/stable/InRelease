@@ -5,36 +5,36 @@ Origin: ProWeave
 Label: ProWeave Presenter
 Suite: stable
 Codename: stable
-Date: Thu, 03 Sep 2026 17:57:39 GMT
-Valid-Until: Wed, 02 Dec 2026 17:57:39 GMT
+Date: Mon, 07 Sep 2026 10:23:16 GMT
+Valid-Until: Sun, 06 Dec 2026 10:23:16 GMT
 Acquire-By-Hash: yes
 Architectures: amd64 arm64
 Components: main
 Description: ProWeave Presenter packages
 SHA256:
- e4053d4f8e034dd57e1979691f9c2617fbe79c73f6c1ad3d91b4bd9a1a0bc6c9             1122 main/binary-amd64/Packages
- 13e85721ec9b439db098804d288e8a89d6c5ec80d12d9bdd8502526429cb8721              661 main/binary-amd64/Packages.gz
- 53ad54888744ac2f6f1712e7b258b0a08e371f483ca33ee13d08460855de5f80             1122 main/binary-arm64/Packages
- fd7c2d42d43ce15167127510a29858712a615ff59dd81585ca9ed73461e856e7              664 main/binary-arm64/Packages.gz
+ 96a17dc988b96fa8003a10045d3db4df0c3d8b46de158be934868334629cc5a7             1120 main/binary-amd64/Packages
+ 7010be74792de0f4639105f065cb6102f22f53baa249e15721368170d40a1afd              659 main/binary-amd64/Packages.gz
+ 0e7903615eac44e525341f215349fcaff9ca454a5f8eff49a9dbb2d5f0259878             1120 main/binary-arm64/Packages
+ 7c056bdc5b4f8de32bb3215ecdebbf5c457b3a43c2c79dcf9dd03c90dea38ed4              661 main/binary-arm64/Packages.gz
 SHA512:
- 6fa6efaad39d3c3462d18f67b33d8fbb9dde68ee19bd867bab72fe0717613230376549b7c4301f7a448a6a0a7a196b8ad48713eed7cdd37b01fd2ee5d62c6c20             1122 main/binary-amd64/Packages
- 1ea27f8a01db681e1f1ebc66d8cadc20c16a92c6ac745013a99b7c33f7f537ea9a9bb0c7cde47764be459b3812cf1fcf8d9b064951b8dcc615f3cb81151a36b8              661 main/binary-amd64/Packages.gz
- 69957d36158768202b05d6d74ac756f5c3a8fee15b144581e445a5ced3b202dcd0cb40d0ed50ee5a1747d030ad598bf7d937e7f895fc2effd9c1b96107c8c156             1122 main/binary-arm64/Packages
- f8b7716a62d0cb241ec093f416fad18155788b0d288b416cfbbf16746fd047366dce054df4ef83f57a0557946f1a8d361ef070949aa644051afb3ce4b828abf7              664 main/binary-arm64/Packages.gz
+ 0c1f65270c9dd50816ef7d41541347721d7a38495684d4e38b0ca451fc54e253df9888925f3dd95f51cdf45c244587feec4ed40b85f31c51246367bd8e36aaf1             1120 main/binary-amd64/Packages
+ f56f9b8351a26cb0bfffc397b38e318c3e1fc7fa4c1a29be2e9056e9d3dd8074e816ec071b1a0c7ea5abb6db6d4913cb76764f9c2c8a0e65f8ebdade5b9a85c1              659 main/binary-amd64/Packages.gz
+ b675038d50b057480763dd18288e5c3795e6b5704e03ac520da84ad3768726f076b79befc50ff6c0af3b5a9bbfdc2b07abcf2564200187842abfe26585d986db             1120 main/binary-arm64/Packages
+ 1a09ab0881f17729ed9ea6c92ee612b2c9f7f256e5077d1e2bbf0c037a560086dd999fac9f2f88e79f865f98549408f813c4b15552cfec1337a47c3c37c6fd80              661 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCAA5FiEE7PXmbbVr3Yd696KABQ/FW70G2mMFAmqZtRMbFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMCwzAAoJEAUPxVu9BtpjTLUP+wSwdaB9Hu+ZXm33kSgd
-I669dYQ8taX2jbxwFr8hzmSSKj+KrCitf9yxMllIQ/t1PQqZz2bL2agD5hEmSrep
-9MR072aiqvyYMdNP/oaRi3anYRK3xZHBz+ejGKvojoiGADvm0BHE3OUwbHEshAp4
-aaAYWNLVttjxHXqDTc1POzZajV6cmXuxHpF8a/bVQjjI1EoS8pCtB/O7qKZrxLY0
-qMtjQsjIasnL1Cqw0OCPmsXi4LXX9FU4/Ju6adW3cgN5p52qRJxHP9FiqfcgcpZ0
-M6gTHykAEoWZtaEQfrhcxbKmibYuXmOHAMfiZgchdXD4gKbheNaElHEN+YRlHUoD
-R7pwQcBaAitRzLh6n0qw4/DLgzEmYRqVVHWVXloCDYSeLQ7Jv7UlCaQIUos48jHG
-Wkb0ufGDjBYv/yE68wnMTxP0ka0C/aFzYOgKytUlbKrHmvfogbgllie9W9A8QZ/6
-dewLpG2ehOQxwa/hteIadyshT6nxZIXcN6rnIyWf5MPM7TTRygfWGgtF40DHFcL5
-xbVPTFss74c8+xy1cuMjV+llrOyB4X/zPDenEf401k2L2aSdgEzRWncsXm+aO8Hs
-T4SYN3OPnUVDxN0vCip1pmLtHnLDtXzO5gxcWmImHDo8Hu24wEGbsOrs8iPf0Qa4
-R9mMvq0oEMvq93WB2O7FImcu
-=XXAb
+iQJPBAEBCAA5FiEE7PXmbbVr3Yd696KABQ/FW70G2mMFAmqekJQbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzAAoJEAUPxVu9BtpjjKEP/3PNghIas3rKGupTYG/5
+JYcU8cBbzOtCZvf0uwnR9+ciqouYsmRNEMWw/77yoXfRn7R9UEiKsaNbtPZHOi7f
+os+9WPrsWyhuPseQwNUseUADnPKzVtiozpwwhQ1F56ZSMKO+v2V15wUj5N/aGv1U
+MXq1T+UBeK0SUJwcj8oeR/M2RR48fQsoW2fi1H/KJBalc8RR79HLIjqn0UXcZbVO
+Y8IAkKkAbnVmZMzNCSrV+v7wGxIdhBk3zCL+gVlKwXNZ4NbObqb3FmvruFecw1zF
+j/ToRbL8ip9QQxzNThyEE35mNzrgV6RpKXmllsnoCGlLL0HxFdeeKiuB+vaAHgh9
+xin9L9xlTidXjkMw6iH+sSk1WtWOR+imLwbqgW4tFLMBzNRFUK/ntt59PkZcSRcr
+voZfwrvKXVNzWYL5nL9bOigOsBGwZ5D/sG9Sl04058QJFkVxrOB/ehS3676ZzkFf
+iA+xItVNLf5PE2N3Ct4w3W9vOfaX+2vasW4EYwRtG3YoTisjof6GeLvWMdKXCB9t
+n7XvDjz/ec/FOP2tYeNB2ORoSRVEQmTn8h+KoS7nUXt8CdAYicm06DB8EHAKoGDl
+JTmY0Xdww7/+1gBpBXGaAgpjQWa1hACWwqIN1PxP+xSia3+Mw1Od0znDzRHKKvXy
+OV7Gh7c9byYb6JEaXxPYYQDX
+=wre9
 -----END PGP SIGNATURE-----
